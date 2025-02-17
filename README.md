@@ -29,7 +29,7 @@ python manage.py runserver
 
 ### On this page sometimes i be post most needed information
 
-<img width="600px" src=".repo/images/image.png">
+<img width="600px" src=".repo/images/image.png" >
 
 
 
@@ -45,5 +45,5 @@ python manage.py runserver
 
 <img width="600px" align="center" src=".repo/images/image3.png">
 
-
+<h3 align = "center">On this moment it's all site functions, but later I will add new posts and communities.</h3>
 
